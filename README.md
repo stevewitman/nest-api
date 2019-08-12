@@ -63,3 +63,12 @@ export class Book {
 
 ## See additional README's for API routes
 
+[NEXT - Add a book](https://github.com/stevewitman/nest-api/blob/master/README1-Add%20a%20book.md)
+
+[Get all books](https://github.com/stevewitman/nest-api/blob/master/README2-Get%20all%20books.md)
+
+[Get one book](https://github.com/stevewitman/nest-api/blob/master/README3-Get%20one%20book.md)
+
+[Update a book](https://github.com/stevewitman/nest-api/blob/master/README4-Update%20a%20book.md)
+
+[Delete a book](https://github.com/stevewitman/nest-api/blob/master/README5-Delete%20a%20book.md)

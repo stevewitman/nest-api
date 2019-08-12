@@ -34,3 +34,5 @@ In Postman, select `Delete` and use `http://localhost:3000/xxxxx` for the url (r
 This should return null.
 
 Note: Since the server restarts after every change in code, you will need to use the Post route to first add one or more books and also to get an Id from one of the books to use in the Delete route.
+
+[PREVIOUS - Update a book](https://github.com/stevewitman/nest-api/blob/master/README4-Update%20a%20book.md)

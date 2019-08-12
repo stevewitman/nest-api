@@ -32,3 +32,5 @@ In Postman, select `Get` and use `http://localhost:3000` for the url.
 This should return an array of all book objects.
 
 Note: Since the server restarts after every change in code, you will need to use the Post route to first add one or more books before using the Get route.
+
+[PREVIOUS - Add a book](https://github.com/stevewitman/nest-api/blob/master/README1-Add%20a%20book.md) | [NEXT - Get one book](https://github.com/stevewitman/nest-api/blob/master/README3-Get%20one%20book.md)

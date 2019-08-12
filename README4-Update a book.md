@@ -74,3 +74,5 @@ or
 This should return null.
 
 Note: Since the server restarts after every change in code, you will need to use the Post route to first add one or more books and also to get an Id from one of the books to use in the Patchx route.
+
+[PREVIOUS - Get one book](https://github.com/stevewitman/nest-api/blob/master/README3-Get%20one%20book.md) | [NEXT - Delete a book](https://github.com/stevewitman/nest-api/blob/master/README5-Delete%20a%20book.md)

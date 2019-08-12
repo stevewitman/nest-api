@@ -71,4 +71,5 @@ Click `body`, select `raw`, and select `JSON` then add something an object to th
 This should return the generated Id after adding the book object to the array of books (in our case, only persisted in memory)
 
 
+[PREVIOUS - Project Setup](https://github.com/stevewitman/nest-api/blob/master/README.md) | [NEXT - Get all books](https://github.com/stevewitman/nest-api/blob/master/README2-Get%20all%20books.md)
 

@@ -43,3 +43,5 @@ In Postman, select `Get` and use `http://localhost:3000/xxxxx` for the url (repl
 This should return one book object associated with the id privided.
 
 Note: Since the server restarts after every change in code, you will need to use the Post route to first add one or more books and also to get an Id from one of the books to use in the Get w/param route.
+
+[PREVIOUS - Get all books](https://github.com/stevewitman/nest-api/blob/master/README2-Get%20all%20books.md) | [NEXT - Update a book](https://github.com/stevewitman/nest-api/blob/master/README4-Update%20a%20book.md)
