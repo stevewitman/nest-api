@@ -74,3 +74,5 @@ export class Book {
 [Update a book](https://github.com/stevewitman/nest-api/blob/master/README4-Update%20a%20book.md)
 
 [Delete a book](https://github.com/stevewitman/nest-api/blob/master/README5-Delete%20a%20book.md)
+
+[NestJS ng-universal](https://github.com/stevewitman/nest-api/blob/master/README6-Nest-ng-universal.md)
