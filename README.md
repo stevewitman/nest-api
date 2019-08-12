@@ -4,10 +4,12 @@
 
 [Learn Nest.js from Scratch by building an API (by Maximilian Schwarzmüller)](https://www.youtube.com/watch?v=F_oOtaxb0L8) YouTube - Academind (Published on Jun 26, 2019)
 
-[NestJS Crash Course (Brad Traversy)](https://www.youtube.com/watch?v=wqhNoDE6pb4) YouTube - Traversy Media (Published on Mar 25, 2019)
+[NestJS Crash Course (by Brad Traversy)](https://www.youtube.com/watch?v=wqhNoDE6pb4) YouTube - Traversy Media (Published on Mar 25, 2019)
 
 [Amazing Backends for Angular Devs with NestJS (by Ely Lucas)](https://www.youtube.com/watch?v=XkEA8L_4IUY) YouTube - ng-conf (Published on May 6, 2019)
 
+[Going Full Stack Angular with NestJS (by Stephen Fluin)](https://www.youtube.com/watch?v=y24fC9Pqr8I)
+YouTube - Demos With Angular (Published on May 22, 2019)
 
 ## Demo Project Setup
 
