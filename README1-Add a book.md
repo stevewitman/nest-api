@@ -1,4 +1,4 @@
-## Post Route to add new books
+## Post Route to add a new book
 
 Add the following to `books.controller.ts`
 

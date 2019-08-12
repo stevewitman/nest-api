@@ -1,4 +1,4 @@
-## Get Route w/Route Param to get one books
+## Get Route w/Route Param to get one book
 
 Add the following to `books.controller.ts`
 
